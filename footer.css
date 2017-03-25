@@ -1,0 +1,25 @@
+/*Footer*/
+
+footer {
+  position: fixed;
+  bottom: 0;
+  left:0;
+  width: 100%;
+  background-color: lightgrey;
+  display: flex;
+}
+
+.copyright {
+  text-align: right;
+  color: blue;
+  flex: 2;
+}
+
+.socialfooter {
+  /*text-align: center;*/
+  margin-top: auto;
+  margin-bottom: auto;
+  padding-left: 2.5%;
+  flex: 0.6;
+  zoom: 20%;
+}
