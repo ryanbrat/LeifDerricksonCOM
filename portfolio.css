@@ -1,0 +1,57 @@
+
+/*Portfolio Headers*/
+
+.rectangle {
+  width: 100px;
+  height: 50px;
+  position: relative;
+  margin: 100px 100px 100px 0;
+}
+
+h2 {
+  height: 10px;
+  font-family: sans-serif;
+  position: absolute;
+  top: -5px;
+  left: 80px;
+  letter-spacing: 22px;
+  white-space: nowrap;
+}
+
+h2:first-letter {
+  color: white;
+}
+
+#orange {
+  background-color: orange;
+  color: orange;
+}
+
+#blue {
+  background-color: blue;
+  color: blue;
+}
+
+#red {
+  background-color: red;
+  color: red;
+}
+
+/*Portfolio Header Inside Video Box*/
+
+#videography {
+  font-family: sans-serif;
+  position: absolute;
+  top: 20px;
+  left: 80px;
+  letter-spacing: 22px;
+  white-space: nowrap;
+  color: white;
+}
+
+.square {
+  width: 100px;
+  height: 100px;
+  position: relative;
+  margin: 100px 100px 100px 0;
+}
